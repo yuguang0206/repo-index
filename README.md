@@ -1,43 +1,39 @@
 # 📋 yuguang0206 代码库分类索引
 
 > 📦 仓库已按主题分到不同 Organization 管理
-> 个人账号仅保留 AI 类和学习类项目
 
 ---
 
 ## 📈 量化交易 & 聚宽 → [yuguang-quant](https://github.com/yuguang-quant)
+*共 19 个仓库 — ai_quant_trade、easytrader、Quant-Strategy、multi-factor-gm-wind-joinquant、real_trader、StockTimingStrategy、multi-factor-strategy-joinquant、python_jointquant、joinquant-skill、JoinQuant-QMT-Trader、lightquant、Cheap-Stable-Trending-quant、stock-selector-dash、quantros、QuantBridge、joinquant-strategy、joinquantFiles、quat_code、Empirical-Analysis-of-Quantitative-Strategies-Based-on-MACD-Index*
 
-| 项目 | 说明 | 链接 |
-|:-----|:-----|:-----|
-| ai_quant_trade | ⭐5.9k AI股票操盘手 | [→](https://github.com/yuguang-quant/ai_quant_trade) |
-| easytrader | ⭐9.9k 量化交易框架 | [→](https://github.com/yuguang-quant/easytrader) |
-| Quant-Strategy | ⭐252 策略合集 | [→](https://github.com/yuguang-quant/Quant-Strategy) |
-| multi-factor-gm-wind-joinquant | ⭐236 多因子框架 | [→](https://github.com/yuguang-quant/multi-factor-gm-wind-joinquant) |
-| real_trader | ⭐148 实盘交易 | [→](https://github.com/yuguang-quant/real_trader) |
-| StockTimingStrategy | ⭐150+ 择时策略 | [→](https://github.com/yuguang-quant/StockTimingStrategy) |
-| multi-factor-strategy-joinquant | ⭐42 多因子策略 | [→](https://github.com/yuguang-quant/multi-factor-strategy-joinquant) |
-| python_jointquant | 策略集合 | [→](https://github.com/yuguang-quant/python_jointquant) |
-| joinquant-skill | ⭐55 AI策略生成 | [→](https://github.com/yuguang-quant/joinquant-skill) |
-| JoinQuant-QMT-Trader | 聚宽→MiniQMT | [→](https://github.com/yuguang-quant/JoinQuant-QMT-Trader) |
-| lightquant | AI策略工作台 | [→](https://github.com/yuguang-quant/lightquant) |
-| Cheap-Stable-Trending-quant | 深度价值策略 | [→](https://github.com/yuguang-quant/Cheap-Stable-Trending-quant) |
-| stock-selector-dash | A股选股器 | [→](https://github.com/yuguang-quant/stock-selector-dash) |
-| quantros | 策略证伪器 | [→](https://github.com/yuguang-quant/quantros) |
-| QuantBridge | 信号转发 | [→](https://github.com/yuguang-quant/QuantBridge) |
-| 其他4个 | 策略/工具 | [查看全部](https://github.com/yuguang-quant?tab=repositories) |
+[查看全部 →](https://github.com/yuguang-quant?tab=repositories)
 
 ## 🔧 嵌入式 & MCU → [yuguang-embedded](https://github.com/yuguang-embedded)
+*共 15 个仓库 — FreeModbus、ExPeriphDriver、eventos、q-controllers、ucframe、Grassland、MultiTimer、cpost、tddcode、ESP32-freeRTOS、EmbedSummary、EmbedBooks、DAPLink、Avem、ToolKit*
 
-FreeModbus, ExPeriphDriver, eventos, q-controllers, ucframe, Grassland, MultiTimer, ESP32-freeRTOS, EmbedSummary, EmbedBooks, DAPLink, Avem, Toolkit 等 15 个项目
+[查看全部 →](https://github.com/yuguang-embedded?tab=repositories)
 
-## ⚡ 电力电子 → [yuguang-power](https://github.com/yuguang-power)
+## ⚡ 电力电子/电源 → [yuguang-power](https://github.com/yuguang-power)
+*共 6 个仓库 — Buck-Boost 数字电源、模糊逻辑双向变换器、FSBB 超级电容控制器、Buck-Boost 仿真、毕业设计、SmartBMS*
 
-毕业设计 Buck-Boost 数字电源、模糊逻辑双向变换器、超级电容控制器、BMS 等 6 个项目
+[查看全部 →](https://github.com/yuguang-power?tab=repositories)
 
 ## 🔲 FPGA & 数字IC → [yuguang-fpga](https://github.com/yuguang-fpga)
+*共 6 个仓库 — Xilinx IP库、HDL库、FPGA JTAG、FPGA入门、数字IC资料、Verilog规范*
 
-Xilinx IP库、HDL项目、FPGA入门、Verilog规范等 6 个项目
+[查看全部 →](https://github.com/yuguang-fpga?tab=repositories)
 
-## 🤖 AI & 学习（留在个人账号下）
+## 🤖 AI & 机器学习 → [yuguang-ai](https://github.com/yuguang-ai)
+*共 4 个仓库 — Qbot（AI量化交易机器人）、TrendRadar（AI舆情监控）、ai_wiki（AI知识速查）、sagemaker-defect-detection（缺陷检测）*
 
-Qbot, TrendRadar, ai_wiki, hello-algo, ardupilot, linux 等
+[查看全部 →](https://github.com/yuguang-ai?tab=repositories)
+
+## 📖 学习 & 其他 → [yuguang-learn](https://github.com/yuguang-learn)
+*共 9 个仓库 — hello-algo（算法教程）、ardupilot（开源飞控）、linux（内核源码）、ZSWatch（开源手表）、ioBroker（智能家居）、lua（语言源码）、ThunderScope（开源示波器）、ElfReader（ELF解析器）、RoboMaster 超级电容控制器*
+
+[查看全部 →](https://github.com/yuguang-learn?tab=repositories)
+
+---
+
+> 💡 每个仓库已标记分类 Topic，在 GitHub 上搜索 `topic:quant-trading` 即可按类筛选。
